@@ -2305,6 +2305,7 @@ Dante Sanchez
 - [João Gonçalves] (https://github.com/joao-goncalves17)
 - [Skin Spectra] (https://github.com/mqry)
 - [iPig](https://github.com/ipigtw)
+- [skullcrusher2104] (https://github.com/skullcrusher2104)
 - [Kornel Hergert](https://github.com/kornel54)
 - [Sara Tahdi](https://github.com/Sara-Tahdi)
 - [Mohammed Hamid](https://github.com/MdHamid06)
